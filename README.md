@@ -21,12 +21,12 @@ We developed and evaluated unsupervised extractive summarization methods for 1,2
 
 * **LexRank** achieved the best overall balance across metrics
 * **SBERT+MMR** excelled in experiential richness but showed coherence challenges
-* Trade-offs highlight the complexity of summarizing narrative psychedelic reports
+* Trade-offs highlight the complexity of summarizing verbose psychedelic reports
 
 ## Ethics & Data
 
 * Reports are **publicly available** on Erowid and cannot be redistributed
-* We provide **report IDs**, preprocessing scripts, and evaluation code only
+* We provide preprocessing scripts, and evaluation code only
 * Study deemed **exempt from IRB review** under institutional guidelines
 
 ## Repository Structure
