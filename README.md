@@ -38,4 +38,4 @@ We developed and evaluated unsupervised extractive summarization methods for 1,2
 ```
 
 
-For inquiries, please open an issue or contact [badhon279@gmail.com]
+For inquiries, please contact [badhon279@gmail.com]
