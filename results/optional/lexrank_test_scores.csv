@@ -1,0 +1,4 @@
+Model,Substance,Semantic (TF-IDF/SBERT),Experiential,Coherence (TF-IDF/SBERT),Final Score
+M1,DMT,0.63 (TF-IDF),0.37,0.09 (TF-IDF),0.44
+M1,LSD,0.65 (TF-IDF),0.40,0.08 (TF-IDF),0.46
+M1,Psilocybin,0.66 (TF-IDF),0.41,0.08 (TF-IDF),0.47

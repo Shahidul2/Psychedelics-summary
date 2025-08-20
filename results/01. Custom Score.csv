@@ -1,0 +1,10 @@
+Model,Substance,Custom Score,Average Score
+,DMT,0.44,
+LexRank,LSD,0.46,0.46
+,Psilocybin,0.47,
+,DMT,0.38,
+LSA,LSD,0.4,0.39
+,Psilocybin,0.4,
+,DMT,0.88,
+SBERT,LSD,0.85,0.86
+,Psilocybin,0.84,

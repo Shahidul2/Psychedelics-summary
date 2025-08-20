@@ -1,0 +1,49 @@
+experiential_terms = {
+    'emotional': [
+        'felt', 'feeling', 'emotion', 'joy', 'fear', 'anxiety', 'bliss', 'love', 'terror', 'peace', 'calm',
+        'excited', 'overwhelmed', 'gratitude', 'euphoria', 'sadness', 'longing', 'crying', 'ecstasy', 'relief',
+        'compassion', 'grief', 'awe', 'anger', 'release', 'hope', 'despair', 'serenity', 'agitation', 'comfort',
+        'purging', 'vulnerability', 'intimacy', 'empathy', 'tension', 'melancholy', 'abandon', 'appreciation'
+    ],
+
+    'sensory': [
+        'visual', 'hear', 'sound', 'color', 'bright', 'pattern', 'geometry', 'music', 'taste', 'smell', 'see',
+        'saw', 'colors', 'sounds', 'shapes', 'textures', 'movement', 'melting', 'vibrations', 'pulsing',
+        'fractal', 'echo', 'flashing', 'tunnel', 'fluid', 'shimmering', 'sparkling', 'synesthesia',
+        'auditory', 'trails', 'glow', 'hallucination', 'pulsate', 'distortion', 'radiance', 'static',
+        'blurred', 'lightness', 'glimmer', 'resonance', 'tactile', 'kaleidoscopic'
+    ],
+
+    'cognitive': [
+        'thought', 'mind', 'consciousness', 'aware', 'realize', 'understand', 'insight', 'clarity', 'confused',
+        'clear', 'thinking', 'perception', 'concepts', 'identity', 'ego', 'dissolve', 'looping', 'logic',
+        'recognition', 'belief', 'interpretation', 'memory', 'language', 'narrative', 'meaning', 'mindspace',
+        'headspace', 'overthinking', 'mental', 'clarification', 'self-talk', 'rational', 'intellect',
+        'philosophical', 'metacognition', 'rumination', 'stream of consciousness', 'inner dialogue',
+        'cognitive dissonance', 'hyperfocus'
+    ],
+
+    'physical': [
+        'body', 'skin', 'breath', 'heart', 'energy', 'vibration', 'tingling', 'warm', 'heavy', 'light', 'pressure',
+        'sensation', 'nausea', 'shaking', 'sweating', 'floating', 'stillness', 'tightness', 'spasm', 'motion',
+        'trembling', 'cold', 'breathing', 'heartbeat', 'twitching', 'dry mouth', 'muscles', 'stiffness',
+        'paralysis', 'numbness', 'restlessness', 'chills', 'sweat', 'clenching', 'somatic', 'bodyload',
+        'temperature', 'digestive', 'physical release'
+    ],
+
+    'mystical': [
+        'ego', 'self', 'unity', 'divine', 'spiritual', 'transcend', 'infinite', 'oneness', 'god', 'universe',
+        'connected', 'sacred', 'eternal', 'death', 'rebirth', 'timeless', 'interconnected', 'presence', 'source',
+        'void', 'light', 'beyond', 'higher power', 'awakening', 'realm', 'dimension', 'truth', 'immortality',
+        'ego death', 'no-self', 'nirvana', 'cosmic', 'transcendence', 'pure being', 'karma', 'light being',
+        'soul', 'heaven', 'angelic', 'time distortion', 'godlike', 'divinity', 'portal', 'third eye',
+        'nondual', 'dissolution', 'samsara', 'infinity', 'entity', 'timelessness'
+    ],
+
+    'temporal': [
+        'onset', 'peak', 'comedown', 'duration', 'timeline', 'hours', 'minutes', 'start', 'beginning',
+        'after', 'later', 'build-up', 'before', 'end', 'wave', 'early', 'gradual', 'suddenly',
+        'phase', 'stage', 'passed', 'elapsed', 'over time', 'rush', 'fade', 'linger', 'moment',
+        'slowly', 'time passed', 'time distorted', 'hour mark', 'entry', 'exit'
+    ]
+}
