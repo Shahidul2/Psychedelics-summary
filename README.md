@@ -34,7 +34,7 @@ We developed and evaluated unsupervised extractive summarization methods for 1,2
 ```
 ├── data scrapers/  # Scrapy Library based code for data collection
 ├── notebooks/      # Text cleaning, Summarization pipelines, Custom scoring, LLM rubric evaluation, Radar Chart Visualization, and TOPSIS aggregation
-└── results/        # LLM Score, Hyperparameter Selections
+└── results/        # LLM Score, Hyperparameter Selections, One representative example
 ```
 
 
