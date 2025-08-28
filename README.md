@@ -1,6 +1,7 @@
 # Psychedelic Experience Report Summarization
 
 This repository contains code, preprocessing scripts, and evaluation materials for the paper: **"Unsupervised Automatic Summarization of Psychedelic User Experience Reports"**
+Preprint: MedrXiv([https://www.medrxiv.org/content/10.1101/2025.08.22.25334176v1])
 
 ## Overview
 
